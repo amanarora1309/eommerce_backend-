@@ -10,7 +10,6 @@ import productRoutes from './routes/productRoutes.js'
 import path from 'path';
 
 // create __dirname
-import path from 'path';
 import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 
